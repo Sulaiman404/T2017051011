@@ -1,0 +1,22 @@
+ @import url('https://fonts.googleapis.com/css?family=Roboto');
+body{
+    font-family: 'Roboto', sans-serif;
+	
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.brand-logo img{
+	height: 100%;
+}
+.login_ul{
+	padding: 10px;
+}
+.ratingValue{
+	color: #C20916;
+}
+.greyColor{
+	color: grey;
+}
+.inputError{
+	outline: 2px groove red;
+}
