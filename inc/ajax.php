@@ -30,7 +30,7 @@
 				$_SESSION['id'] = $row['id'];
 				$_SESSION['username'] = $row['username'];
 				$_SESSION['password'] = $row['password'];
-				header('Location: http://t2017051011.azurewebsites.net/index.php');
+				header('Location: ../index.php');
 			}
 		} else {
 				echo "F";
