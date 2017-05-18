@@ -3,8 +3,8 @@
 $host = 'localhost';
 //$user = 'T2017051011';
 //$pass = '12bd43d9ca';
-$user = 'root';
-$pass = '';
+$user = 'azure';
+$pass = 'password';
 $db = 'T2017051011';
 
 $conn = mysqli_connect($host, $user, $pass, $db);
