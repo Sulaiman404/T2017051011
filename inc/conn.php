@@ -32,7 +32,7 @@ foreach ($_SERVER as $key => $value) {
     $connectstr_dbpassword = preg_replace("/^.*Password=(.+?)$/", "\\1", $value);
 }
 
-$link = mysqli_connect($connectstr_dbhost, $connectstr_dbusername, $connectstr_dbpassword,'t2017051011');
+$link = mysqli_connect($connectstr_dbhost, 'azure', 'password','t2017051011');
 
 if (!$link) {
     echo "Error: Unable to connect to MySQL." . PHP_EOL;
