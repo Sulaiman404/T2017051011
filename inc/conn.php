@@ -1,7 +1,8 @@
 <?php
 
 //$host = 'localhost';
-$host = 't2017051011.scm.azurewebsites.net';
+//$host = 't2017051011.scm.azurewebsites.net';
+$host = '127.0.0.1';
 //$user = 'T2017051011';
 //$pass = '12bd43d9ca';
 $user = 'azure';
