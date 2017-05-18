@@ -913,7 +913,7 @@ A Board with 11 members of trusted positions is the top operative body of the Fe
   </div>
 </footer>
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
-<script src="js/jquery-1.11.3.min.js"></script> 
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script> 
 <!-- Include all compiled plugins (below), or include individual files as needed --> 
 <script src="js/bootstrap.js"></script>
 <script src="js/script.js"></script>
